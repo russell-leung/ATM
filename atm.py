@@ -1,6 +1,8 @@
 from tkinter import *
 import sqlite3
 
+#GUI version (Graphical user interface via tkinter)
+
 
 #Account creation functions
 
